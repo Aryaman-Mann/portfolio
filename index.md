@@ -2,10 +2,10 @@ Aspiring Technical Writer with a strong ability to translate complex technical c
 
 For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
 
-### My Samples of documentation:
+### Some of my written work:
 - [README for ezBookkeeping web app](./ez_contribution.md)  
 - [README for WhatDidYouDo web app](./whatdidyoudo_contribution.md)  
 - [Rewrote a How-To Guide from the Sprinklr website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)   
 
-### Contact  
+### Reach out to me: 
 [LinkedIn](https://www.linkedin.com/in/aryaman-mann/) | [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com)  
