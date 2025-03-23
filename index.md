@@ -1,6 +1,8 @@
-Result-driven Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating manuals, user guides, and structured content. Proficient in Confluence, Microsoft Word, and Jira, possessing foundational knowledge of Markdown, HTML, and CSS for documentation formatting.
+Aspiring Technical Writer skilled at translating complex concepts into clear, user-centric documentation. Familiar with creating manuals, user guides, and structured content. Proficient in tools such as Confluence, Microsoft Word, and Jira, with foundational knowledge of Markdown, HTML, and CSS. 
 
-[📄 Here is my Resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing)  
+For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
+
+Below are samples of documentation I have written:
 
 ### GitHub Contributions
 - [README for ezBookkeeping web app](./ez_contribution.md)  
@@ -9,5 +11,5 @@ Result-driven Technical Writer with a strong ability to translate complex techni
 ### Google Docs Samples
 - [Rewrote a How-To Guide from the Sprinklr website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)   
 
-## Contact  
-Reach out via [LinkedIn](https://www.linkedin.com/in/aryaman-mann/) or email at [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com).  
+### Contact  
+[LinkedIn](https://www.linkedin.com/in/aryaman-mann/) | [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com)  
