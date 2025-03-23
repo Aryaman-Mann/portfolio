@@ -15,9 +15,13 @@ Visit [WhatDidYouDo](https://www.whatdidyoudo.dev/) to try it out.
 
 ## Screenshots
 
-![Summary View](https://i.imgur.com/CkHAzVc.png)
+<p align="center">
+  <img src="https://i.imgur.com/CkHAzVc.png" alt="Summary View" width="500">
+</p>
 
-![Detailed Activity](https://i.imgur.com/ZgSQ7zK.png)
+<p align="center">
+  <img src="https://i.imgur.com/ZgSQ7zK.png" alt="Detailed Activity" width="500">
+</p>
 
 ## Technology Stack
 This project is built using the **T3 Stack**, powered by **Next.js, TypeScript, Tailwind CSS, tRPC, and Prisma**.
