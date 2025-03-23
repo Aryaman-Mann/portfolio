@@ -5,6 +5,6 @@ For more details about my skills and qualifications, you can [view my resume](ht
 ### Here are some samples I've written:
 - [README for ezBookkeeping web app](./ez_contribution.md)  
 - [README for WhatDidYouDo web app](./whatdidyoudo_contribution.md)  
-- [Rewrote a How-To Guide from the Sprinklr website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)   
+- [Rewrote a how-to guide from Sprinklr’s website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)   
 
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/aryaman-mann/) or email at [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com).  
