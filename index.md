@@ -1,5 +1,7 @@
 Result-driven Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating manuals, user guides, and structured content. Proficient in Confluence, Microsoft Word, and Jira, possessing foundational knowledge of Markdown, HTML, and CSS for documentation formatting.
 
+[📄 Here is my Resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing)  
+
 ### GitHub Contributions
 - [README for ezBookkeeping web app](./ez_contribution.md)  
 - [README for WhatDidYouDo web app](./whatdidyoudo_contribution.md)  
