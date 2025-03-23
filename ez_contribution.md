@@ -98,3 +98,7 @@ To build a Docker image, ensure [Docker](https://www.docker.com/) is installed, 
 
 ## License
 [MIT](https://github.com/mayswind/ezbookkeeping/blob/master/LICENSE)
+
+## Repository  
+The original project repository can be found at:  
+[GitHub - ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
