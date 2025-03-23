@@ -1,3 +1,4 @@
+remote_theme: jekyll/minima
 title: ""
 # Technical Writing Portfolio
 
