@@ -1,3 +1,4 @@
+title: ""
 # Technical Writing Portfolio
 
 Result-driven Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Experienced in creating manuals, user guides, and structured content. Proficient in Confluence, Microsoft Word, and Jira, with a working knowledge of Markdown, HTML, and CSS for documentation formatting.
