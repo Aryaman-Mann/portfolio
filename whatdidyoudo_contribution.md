@@ -16,11 +16,11 @@ Visit [WhatDidYouDo](https://www.whatdidyoudo.dev/) to try it out.
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/CkHAzVc.png" alt="Summary View" width="500">
+  <img src="https://i.imgur.com/CkHAzVc.png" alt="Summary View" width="700">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZgSQ7zK.png" alt="Detailed Activity" width="500">
+  <img src="https://i.imgur.com/ZgSQ7zK.png" alt="Detailed Activity" width="700">
 </p>
 
 ## Technology Stack
@@ -28,4 +28,9 @@ This project is built using the **T3 Stack**, powered by **Next.js, TypeScript, 
 
 ## Contributing
 Contributions are welcome. If you find a bug or have an idea for improvement, feel free to submit an issue or open a pull request.
+
+## Repository  
+The original project repository can be found at:  
+[GitHub - WhatDidYouDo](https://github.com/Divide-By-0/whatdidyoudo)
+
 
