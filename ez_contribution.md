@@ -1,3 +1,6 @@
+---
+## EzBookkeeping
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mayswind/ezbookkeeping/blob/master/LICENSE)
 [![Latest Build](https://img.shields.io/github/actions/workflow/status/mayswind/ezbookkeeping/docker-snapshot.yml?branch=main)](https://github.com/mayswind/ezbookkeeping/actions)
 [![Go Report](https://goreportcard.com/badge/github.com/mayswind/ezbookkeeping)](https://goreportcard.com/report/github.com/mayswind/ezbookkeeping)
@@ -6,7 +9,7 @@
 
 ## Introduction
 
-ezBookkeeping is a lightweight, self-hosted personal bookkeeping app for Windows, macOS, and Linux. It supports x86, amd64, and ARM architectures and can also run on a Raspberry device. The application works with multiple databases, such as SQLite and MySQL. With Docker, it can be deployed easily using a single command.
+EzBookkeeping is a lightweight, self-hosted personal bookkeeping app for Windows, macOS, and Linux. It supports x86, amd64, and ARM architectures and can also run on a Raspberry device. The application works with multiple databases, such as SQLite and MySQL. With Docker, it can be deployed easily using a single command.
 
 Online Demo: [https://ezbookkeeping-demo.mayswind.net](https://ezbookkeeping-demo.mayswind.net)
 
