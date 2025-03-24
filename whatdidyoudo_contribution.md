@@ -1,8 +1,8 @@
-[← Return to Main Page](https://aryaman-mann.github.io/portfolio/)
-<a href="[https://yourportfolio.com](https://aryaman-mann.github.io/portfolio/)" style="display: inline-block; padding: 8px 12px; margin-bottom: 20px; font-size: 14px; font-weight: bold; color: white; background-color: #0366d6; border-radius: 5px; text-decoration: none;">← Return to Main Page</a>
-
-
-## What Did You Do?
+---
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <h2 style="margin: 0;">What Did You Do?</h2>
+  <a href="https://aryaman-mann.github.io/portfolio/" style="padding: 6px 10px; font-size: 14px; font-weight: bold; color: white; background-color: #0366d6; border-radius: 5px; text-decoration: none;">← Return to Main Page</a>
+</div>
 
 ## Introduction
 
