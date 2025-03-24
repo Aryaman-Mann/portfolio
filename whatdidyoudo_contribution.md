@@ -42,7 +42,6 @@ This project is built using the **T3 Stack**, powered by **Next.js, TypeScript, 
 Contributions are welcome. If you find a bug or have an idea for improvement, feel free to submit an issue or open a pull request.
 
 ## Repository  
-The original project repository can be found at:  
-[GitHub - WhatDidYouDo](https://github.com/Divide-By-0/whatdidyoudo)
+The original project repository can be found at: [GitHub - WhatDidYouDo](https://github.com/Divide-By-0/whatdidyoudo)
 
 
