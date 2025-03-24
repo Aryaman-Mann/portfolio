@@ -1,7 +1,7 @@
 ---
 ## What Did You Do?
 
-## Overview
+## Introduction
 
 **WhatDidYouDo** is a simple web application that lets you track GitHub activity over different timeframes (last 24 hours, week, month, or a custom range). Inspired by Elon Musk's "What did you get done this week?" question, this tool provides a quick way to review contributions across repositories.
 
