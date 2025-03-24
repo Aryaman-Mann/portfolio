@@ -1,5 +1,16 @@
 ---
-## EzBookkeeping
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <h2 style="margin: 0;">EzBookkeeping</h2>
+  <a href="https://aryaman-mann.github.io/portfolio/" 
+     style="padding: 6px 12px; font-size: 14px; font-weight: bold; color: white; 
+            background-color: #059669; border-radius: 6px; text-decoration: none; 
+            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
+            transition: opacity 0.2s ease;"
+     onmouseover="this.style.opacity='0.85'"
+     onmouseout="this.style.opacity='1'">
+     ← Go Back
+  </a>
+</div>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mayswind/ezbookkeeping/blob/master/LICENSE)
 [![Latest Build](https://img.shields.io/github/actions/workflow/status/mayswind/ezbookkeeping/docker-snapshot.yml?branch=main)](https://github.com/mayswind/ezbookkeeping/actions)
