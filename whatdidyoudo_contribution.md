@@ -8,7 +8,7 @@
             transition: opacity 0.2s ease;"
      onmouseover="this.style.opacity='0.85'"
      onmouseout="this.style.opacity='1'">
-     ← Return to Main Page
+     ← Go Back
   </a>
 </div>
 
