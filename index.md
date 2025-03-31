@@ -4,7 +4,8 @@ For more details about my skills and qualifications, you can [view my resume](ht
 
 ### Here are some samples I've written:
 - [Why use branches when contributing?](/portfolio/why_use_branches.html)
-- [README for WhatDidYouDo web app](/portfolio/whatdidyoudo_contribution.html)  
+- [README for WhatDidYouDo web app](/portfolio/whatdidyoudo_contribution.html)
+- [Understanding .gitignore](/portfolio/understanding_gitignore.html) 
 - [Rewrote a how-to guide from Sprinklr’s website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)
 - [README for EzBookkeeping web app](/portfolio/ez_contribution.html)     
 
