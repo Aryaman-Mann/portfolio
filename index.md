@@ -8,6 +8,7 @@ For more details about my skills and qualifications, you can [view my resume](ht
 - [Understanding .gitignore](/portfolio/understanding_gitignore.html) 
 - [Rewrote a how-to guide from Sprinklr’s website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)
 - [README for EzBookkeeping web app](/portfolio/ez_contribution.html)
-- [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)     
+- [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)
+- [Microplastics](https://docs.google.com/document/d/1mhqyGiDctAV26aNE3QPchEnOQfzMsZZzUH0WY78dY6E/edit?usp=sharing)    
 
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/aryaman-mann/) or email at [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com).  
