@@ -1,4 +1,4 @@
-Aspiring Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating manuals, user guides, and structured content. Proficient in Confluence, Microsoft Word, and Jira, possessing foundational knowledge of Markdown, HTML, and CSS for documentation formatting.
+Aspiring Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating How-to guides, user guides, and structured content. Familiar with Confluence, Microsoft Word, and Jira, with foundational knowledge of Markdown for documentation formatting.
 
 For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
 
