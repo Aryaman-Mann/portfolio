@@ -3,7 +3,8 @@ Aspiring Technical Writer with a strong ability to translate complex technical c
 For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
 
 ### Here are some samples I've written:
-<!--- [Why use branches when contributing?](/portfolio/why_use_branches.html)--->
+- [A begineer's guide to Git branching](https://docs.google.com/document/d/1qLrXWyNV_ON9IxkTzH9NJ-J8_j3m9VAn87DGZu-nh4A/edit?usp=sharing)
+- [Importance of audience analysis in Technical Writing](https://docs.google.com/document/d/1efQBM7rjYfJPGJ7Jc7geQC-odQXxvP1YBsUD3RO7JaI/edit?usp=sharing)
 - [README for WhatDidYouDo web app](/portfolio/whatdidyoudo_contribution.html)
 - [Understanding .gitignore](/portfolio/understanding_gitignore.html) 
 - [Rewrote a how-to guide from Sprinklr’s website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)
