@@ -1,5 +1,7 @@
-Aspiring Content Writer... wil ladd mroe stuff later on (today at night)
-
+Research-oriented Content Writer with a strong ability to simplify information into clear, user-friendly content. Familiar with
+keyword research, on-page SEO, and tracking content performance using tools like Ahrefs and Google Analytics 4. Possesses strong
+written communication skills with attention to grammar, clarity, and detail. Eager to contribute to content for blogs, social media,
+and websites while learning and growing in a collaborative environment.
 
 ### Here are some samples I've written:
 - [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)
