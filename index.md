@@ -1,5 +1,5 @@
 Research-oriented Content Writer with a strong ability to simplify information into clear, user-friendly content. Familiar with
-keyword research, on-page SEO, and tracking content performance using tools like Ahrefs and Google Analytics 4. Possesses strong
+keyword research, on-page SEO, and tracking content performance using tools like Google Search Console and Google Analytics 4. Possesses strong
 written communication skills with attention to grammar, clarity, and detail. Eager to contribute to content for blogs, social media,
 and websites while learning and growing in a collaborative environment.
 
