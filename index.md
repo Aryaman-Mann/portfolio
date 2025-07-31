@@ -1,14 +1,14 @@
-Research-oriented Content Writer with a strong ability to simplify information into clear, user-friendly content. Familiar with
-keyword research, on-page SEO, and tracking content performance using tools like Google Search Console and Google Analytics 4. Possesses strong
-written communication skills with attention to grammar, clarity, and detail. Eager to contribute to content for blogs, social media,
-and websites while learning and growing in a collaborative environment.
+Research-oriented Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating How-to guides, user guides, and structured content. Familiar with Confluence, Microsoft Word, and Jira, with foundational knowledge of Markdown for documentation formatting.
 
-### Here are some samples I've written:
-- [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)
-- [Microplastics](https://docs.google.com/document/d/1mhqyGiDctAV26aNE3QPchEnOQfzMsZZzUH0WY78dY6E/edit?usp=sharing)  
+### Here are some samples I've written: 
 - [A begineer's guide to Git branching](https://docs.google.com/document/d/1qLrXWyNV_ON9IxkTzH9NJ-J8_j3m9VAn87DGZu-nh4A/edit?usp=sharing)
 - [Importance of audience analysis in Technical Writing](https://docs.google.com/document/d/1efQBM7rjYfJPGJ7Jc7geQC-odQXxvP1YBsUD3RO7JaI/edit?usp=sharing)
-- [Rewritten support guide using Sprinklr’s documentation as reference](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)
+- [README for WhatDidYouDo web app](/portfolio/whatdidyoudo_contribution.html)
+- [Understanding .gitignore](/portfolio/understanding_gitignore.html) 
+- [Rewrote a how-to guide from Sprinklr’s website](https://docs.google.com/document/d/1wBeiZh1cRBETC_Pv17FsyNXSnZbPBcXA/edit?usp=sharing&ouid=104001367623014874862&rtpof=true&sd=true)
+- [README for EzBookkeeping web app](/portfolio/ez_contribution.html)
+- [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)
+- [Microplastics](https://docs.google.com/document/d/1mhqyGiDctAV26aNE3QPchEnOQfzMsZZzUH0WY78dY6E/edit?usp=sharing) 
 
 For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
 
