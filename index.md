@@ -10,6 +10,4 @@ Research-oriented Technical Writer with a strong ability to translate complex te
 - [Cyber Frontlines](https://www.techsphereinsights.in/cyber-frontlines-how-india-is-fortifying-its-digital-borders-amid-cross-border-tensions)
 - [Microplastics](https://docs.google.com/document/d/1mhqyGiDctAV26aNE3QPchEnOQfzMsZZzUH0WY78dY6E/edit?usp=sharing) 
 
-For more details about my skills and qualifications, you can [view my resume](https://drive.google.com/file/d/1-cOeOdL76t5RKCVNDBCik7ntxtbtj_1c/view?usp=sharing) here.
-
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/aryaman-mann/) or email at [aryamanmann597@gmail.com](mailto:aryamanmann597@gmail.com).  
