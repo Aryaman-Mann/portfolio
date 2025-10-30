@@ -1,5 +1,3 @@
-Research-oriented Technical Writer with a strong ability to translate complex technical concepts into clear, user-friendly documentation. Familiar with creating How-to guides, user guides, and structured content. Familiar with Confluence, Microsoft Word, and Jira, with foundational knowledge of Markdown for documentation formatting.
-
 ### Here are some samples I've written: 
 - [A begineer's guide to Git branching](https://docs.google.com/document/d/1qLrXWyNV_ON9IxkTzH9NJ-J8_j3m9VAn87DGZu-nh4A/edit?usp=sharing)
 - [Importance of audience analysis in Technical Writing](https://docs.google.com/document/d/1efQBM7rjYfJPGJ7Jc7geQC-odQXxvP1YBsUD3RO7JaI/edit?usp=sharing)
