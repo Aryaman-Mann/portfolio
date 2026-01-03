@@ -1,4 +1,4 @@
-Here are some samples I've written:
+Here are some samples I've written: 
 
 - [A begineer's guide to Git branching](https://github.com/Aryaman-Mann/portfolio/blob/main/documents/Git%20Branching.pdf)
 - [README for WhatDidYouDo web app](/portfolio/whatdidyoudo_contribution.html)
